@@ -1,0 +1,35 @@
+#body {
+ background : linear-gradient(black,grey, black, gray);
+}
+
+#butao {
+    background-color: blueviolet;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+#titulo {
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 05px 05px 20px black;
+  }
+
+ #eh{
+
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 05px 05px 20px black;
+ }
+
+#psecara {
+    line-height: 2;
+    background-color: blueviolet;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+
+}
